@@ -14,7 +14,7 @@ if (!empty($uname1) || !empty($email) || !empty($upswd1) || !empty($upswd2) )
 $host = "localhost";
 $dbusername = "root";
 $dbpassword = "";
-$dbname = "tamilhacks";
+$dbname = "dharani";
 
 
 
